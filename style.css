@@ -66,7 +66,7 @@ font-size: 1.4em;
 }
 
 .cartao.active .conteudo-cartao{
-    transform: rotateY('180angle');
+    transform: rotateY(180angle);
 }
 
 .pergunta-cartao;
@@ -79,7 +79,7 @@ font-size: 1.4em;
 }
 
 .rsposta-cartao{
-    transform:rotateY('180angle');
+    transform:rotateY(180angle);
     background-color: var(--destaque);
     border: 4px solid var(--cartao-verso);
 }
