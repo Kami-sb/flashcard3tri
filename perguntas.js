@@ -1,16 +1,9 @@
-    criaCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta')
+
     criaCartao(
     'História',
     'O que significa mesopotâmia',
     'Terra entre rios - especificamente os rios Tigre e Eufrates')
 
-    criaCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta')
     criaCartao(
     'História',
     'Quais eram os povos da mesopotâmia',
