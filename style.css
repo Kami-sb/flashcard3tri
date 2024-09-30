@@ -79,7 +79,7 @@ font-size: 1.4vw;
     box-sizing: border-box;
 }
 
-.rsposta-cartao{
+.resposta-cartao{
     transform:rotateY(180deg);
     background-color: var(--destaque);
     border: 4px solid var(--cartao-verso);
