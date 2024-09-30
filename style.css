@@ -20,3 +20,19 @@ color: var(--branco);
 width: 100%;
 text-align: center;
 }
+
+.container{
+  
+    height: 0%;
+}
+
+.cartao{
+
+}
+
+.conteudo-cartao h3{
+    border: 1px solid var (--destaque);
+    text-align: left;
+}
+
+.cartao.active
