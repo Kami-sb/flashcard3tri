@@ -2,8 +2,8 @@
 --fundo: rgb(51, 51, 51);
 --cartao-frente:#FF00FF;
 --cartao-verso: #1472ff;
---branco: #white;
---preto: #black;
+--branco: white;
+--preto: black;
 --destaque: #69bcff;
 }
 
