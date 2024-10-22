@@ -84,3 +84,15 @@ font-size: 1.4vw;
     background-color: var(--destaque);
     border: 4px solid var(--cartao-verso);
 }
+
+.Cards{
+    background-color: darkblue;
+    margin: 15px;
+    padding: 20px;
+}
+
+.Resposta{
+    display: none;
+    background-color: darkgoldenrod;
+    padding: 15px;
+}
